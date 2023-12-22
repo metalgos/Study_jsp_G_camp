@@ -9,6 +9,6 @@ https://www.youtube.com/watch?v=yaqnVTBz1As&list=PLieE0qnqO2kTyzAlsvxzoulHVISvO8
 
 jsp강의는 실제로 구현에 집중하기 보다는 서블릿 구조와 쿠키 세션등 스프링과 연관된 기술을 복습하는 것을 목표로 한다. 
 
-목표 : jsp(jstl 과 스클립틀릿), httprequest,세션,쿠키 등 현재 spring 에서도 유효한것들
+목표 : jsp(jstl 과 스클립틀릿), httprequest,세션,쿠키 등 현재 spring 레거시 에서도 유효한것들
 
-나머지 서블릿 기술은 거의 사장된 기술이며 현업에서 사용 안함
+나머지 서블릿 기술,순수 jdbc 는 거의 사장된 기술이며 현업에서 사용 안함
